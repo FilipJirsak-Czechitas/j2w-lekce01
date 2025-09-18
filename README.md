@@ -13,4 +13,4 @@ Pokud chceš, můžeš pokračovat dalšími úpravami `index.html`, třeba při
 
 ## Mohlo by se hodit
 
-* odkaz na stránku [Lekce 1](https://java.czechitas.cz/2024-jaro/java-2-online/lekce-1.html)
+* odkaz na stránku [Lekce 1](https://java.czechitas.cz/2025-podzim/java-2-online/lekce-1.html)
